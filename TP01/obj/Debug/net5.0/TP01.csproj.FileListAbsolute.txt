@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\federal\atividades\TP01\obj\Debug\net5.0\TP01.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\federal\atividades\TP01\obj\Debug\net5.0\TP01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\federal\atividades\TP01\obj\Debug\net5.0\TP01.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\federal\atividades\TP01\obj\Debug\net5.0\TP01.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\federal\atividades\TP01\obj\Debug\net5.0\TP01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\federal\atividades\TP01\bin\Debug\net5.0\TP01.exe
+C:\Users\Lenovo\Documents\federal\atividades\TP01\bin\Debug\net5.0\TP01.deps.json
+C:\Users\Lenovo\Documents\federal\atividades\TP01\bin\Debug\net5.0\TP01.runtimeconfig.json
+C:\Users\Lenovo\Documents\federal\atividades\TP01\bin\Debug\net5.0\TP01.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\federal\atividades\TP01\bin\Debug\net5.0\TP01.dll
+C:\Users\Lenovo\Documents\federal\atividades\TP01\bin\Debug\net5.0\ref\TP01.dll
+C:\Users\Lenovo\Documents\federal\atividades\TP01\bin\Debug\net5.0\TP01.pdb
+C:\Users\Lenovo\Documents\federal\atividades\TP01\obj\Debug\net5.0\TP01.dll
+C:\Users\Lenovo\Documents\federal\atividades\TP01\obj\Debug\net5.0\ref\TP01.dll
+C:\Users\Lenovo\Documents\federal\atividades\TP01\obj\Debug\net5.0\TP01.pdb
+C:\Users\Lenovo\Documents\federal\atividades\TP01\obj\Debug\net5.0\TP01.genruntimeconfig.cache
