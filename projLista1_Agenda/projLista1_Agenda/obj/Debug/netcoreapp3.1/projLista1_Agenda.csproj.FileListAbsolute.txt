@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Documents\federal\atividades\projLista1_Agenda\projLista1_Agenda\bin\Debug\netcoreapp3.1\projLista1_Agenda.exe
+C:\Users\Lenovo\Documents\federal\atividades\projLista1_Agenda\projLista1_Agenda\bin\Debug\netcoreapp3.1\projLista1_Agenda.deps.json
+C:\Users\Lenovo\Documents\federal\atividades\projLista1_Agenda\projLista1_Agenda\bin\Debug\netcoreapp3.1\projLista1_Agenda.runtimeconfig.json
+C:\Users\Lenovo\Documents\federal\atividades\projLista1_Agenda\projLista1_Agenda\bin\Debug\netcoreapp3.1\projLista1_Agenda.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\federal\atividades\projLista1_Agenda\projLista1_Agenda\bin\Debug\netcoreapp3.1\projLista1_Agenda.dll
+C:\Users\Lenovo\Documents\federal\atividades\projLista1_Agenda\projLista1_Agenda\bin\Debug\netcoreapp3.1\projLista1_Agenda.pdb
+C:\Users\Lenovo\Documents\federal\atividades\projLista1_Agenda\projLista1_Agenda\obj\Debug\netcoreapp3.1\projLista1_Agenda.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\federal\atividades\projLista1_Agenda\projLista1_Agenda\obj\Debug\netcoreapp3.1\projLista1_Agenda.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\federal\atividades\projLista1_Agenda\projLista1_Agenda\obj\Debug\netcoreapp3.1\projLista1_Agenda.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\federal\atividades\projLista1_Agenda\projLista1_Agenda\obj\Debug\netcoreapp3.1\projLista1_Agenda.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\federal\atividades\projLista1_Agenda\projLista1_Agenda\obj\Debug\netcoreapp3.1\projLista1_Agenda.dll
+C:\Users\Lenovo\Documents\federal\atividades\projLista1_Agenda\projLista1_Agenda\obj\Debug\netcoreapp3.1\projLista1_Agenda.pdb
+C:\Users\Lenovo\Documents\federal\atividades\projLista1_Agenda\projLista1_Agenda\obj\Debug\netcoreapp3.1\projLista1_Agenda.genruntimeconfig.cache
