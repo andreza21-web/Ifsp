@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P4hn4NfrTSgQ71iAdViSw4tf4i7qwGMoFPQkh/Pz1pcGvAqy6UVmlveg8mxg9TcCzoRW0OTKRuI0pQ0H9S3dHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\federal\\atividades\\atividade_20-10-2021\\atividade_20-10-2021\\atividade_20-10-2021.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
