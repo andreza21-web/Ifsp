@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHBvuD++rCmmE3LZkU4EySHRDglRwxfxQRHw3YnmvhekX7SBWrL2t/bOVhYY/Nx2NP0Cjdp7/ZkUwO3KeWh3nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Documents\\federal\\atividades\\projFila1_Atendimento\\projFila1_Atendimento\\projFila1_Atendimento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

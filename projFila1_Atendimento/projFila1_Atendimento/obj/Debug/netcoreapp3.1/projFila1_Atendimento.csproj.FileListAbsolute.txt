@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Documents\federal\atividades\projFila1_Atendimento\projFila1_Atendimento\obj\Debug\netcoreapp3.1\projFila1_Atendimento.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\federal\atividades\projFila1_Atendimento\projFila1_Atendimento\obj\Debug\netcoreapp3.1\projFila1_Atendimento.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\federal\atividades\projFila1_Atendimento\projFila1_Atendimento\obj\Debug\netcoreapp3.1\projFila1_Atendimento.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\federal\atividades\projFila1_Atendimento\projFila1_Atendimento\obj\Debug\netcoreapp3.1\projFila1_Atendimento.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\federal\atividades\projFila1_Atendimento\projFila1_Atendimento\bin\Debug\netcoreapp3.1\projFila1_Atendimento.exe
+C:\Users\Lenovo\Documents\federal\atividades\projFila1_Atendimento\projFila1_Atendimento\bin\Debug\netcoreapp3.1\projFila1_Atendimento.deps.json
+C:\Users\Lenovo\Documents\federal\atividades\projFila1_Atendimento\projFila1_Atendimento\bin\Debug\netcoreapp3.1\projFila1_Atendimento.runtimeconfig.json
+C:\Users\Lenovo\Documents\federal\atividades\projFila1_Atendimento\projFila1_Atendimento\bin\Debug\netcoreapp3.1\projFila1_Atendimento.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\federal\atividades\projFila1_Atendimento\projFila1_Atendimento\bin\Debug\netcoreapp3.1\projFila1_Atendimento.dll
+C:\Users\Lenovo\Documents\federal\atividades\projFila1_Atendimento\projFila1_Atendimento\bin\Debug\netcoreapp3.1\projFila1_Atendimento.pdb
+C:\Users\Lenovo\Documents\federal\atividades\projFila1_Atendimento\projFila1_Atendimento\obj\Debug\netcoreapp3.1\projFila1_Atendimento.dll
+C:\Users\Lenovo\Documents\federal\atividades\projFila1_Atendimento\projFila1_Atendimento\obj\Debug\netcoreapp3.1\projFila1_Atendimento.pdb
+C:\Users\Lenovo\Documents\federal\atividades\projFila1_Atendimento\projFila1_Atendimento\obj\Debug\netcoreapp3.1\projFila1_Atendimento.genruntimeconfig.cache
