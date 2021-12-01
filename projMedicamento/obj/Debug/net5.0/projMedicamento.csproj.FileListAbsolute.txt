@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\projMedicamento\bin\Debug\net5.0\projMedicamento.exe
+C:\Users\Lenovo\Documents\projMedicamento\bin\Debug\net5.0\projMedicamento.deps.json
+C:\Users\Lenovo\Documents\projMedicamento\bin\Debug\net5.0\projMedicamento.runtimeconfig.json
+C:\Users\Lenovo\Documents\projMedicamento\bin\Debug\net5.0\projMedicamento.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\projMedicamento\bin\Debug\net5.0\projMedicamento.dll
+C:\Users\Lenovo\Documents\projMedicamento\bin\Debug\net5.0\ref\projMedicamento.dll
+C:\Users\Lenovo\Documents\projMedicamento\bin\Debug\net5.0\projMedicamento.pdb
+C:\Users\Lenovo\Documents\projMedicamento\obj\Debug\net5.0\projMedicamento.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\projMedicamento\obj\Debug\net5.0\projMedicamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\projMedicamento\obj\Debug\net5.0\projMedicamento.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\projMedicamento\obj\Debug\net5.0\projMedicamento.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\projMedicamento\obj\Debug\net5.0\projMedicamento.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\projMedicamento\obj\Debug\net5.0\projMedicamento.dll
+C:\Users\Lenovo\Documents\projMedicamento\obj\Debug\net5.0\ref\projMedicamento.dll
+C:\Users\Lenovo\Documents\projMedicamento\obj\Debug\net5.0\projMedicamento.pdb
+C:\Users\Lenovo\Documents\projMedicamento\obj\Debug\net5.0\projMedicamento.genruntimeconfig.cache
