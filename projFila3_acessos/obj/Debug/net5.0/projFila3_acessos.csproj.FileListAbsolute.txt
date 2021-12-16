@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\projFila3_acessos\obj\Debug\net5.0\projFila3_acessos.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\projFila3_acessos\obj\Debug\net5.0\projFila3_acessos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\projFila3_acessos\obj\Debug\net5.0\projFila3_acessos.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\projFila3_acessos\obj\Debug\net5.0\projFila3_acessos.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\projFila3_acessos\obj\Debug\net5.0\projFila3_acessos.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\projFila3_acessos\bin\Debug\net5.0\projFila3_acessos.exe
+C:\Users\Lenovo\Documents\projFila3_acessos\bin\Debug\net5.0\projFila3_acessos.deps.json
+C:\Users\Lenovo\Documents\projFila3_acessos\bin\Debug\net5.0\projFila3_acessos.runtimeconfig.json
+C:\Users\Lenovo\Documents\projFila3_acessos\bin\Debug\net5.0\projFila3_acessos.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\projFila3_acessos\bin\Debug\net5.0\projFila3_acessos.dll
+C:\Users\Lenovo\Documents\projFila3_acessos\bin\Debug\net5.0\ref\projFila3_acessos.dll
+C:\Users\Lenovo\Documents\projFila3_acessos\bin\Debug\net5.0\projFila3_acessos.pdb
+C:\Users\Lenovo\Documents\projFila3_acessos\obj\Debug\net5.0\projFila3_acessos.dll
+C:\Users\Lenovo\Documents\projFila3_acessos\obj\Debug\net5.0\ref\projFila3_acessos.dll
+C:\Users\Lenovo\Documents\projFila3_acessos\obj\Debug\net5.0\projFila3_acessos.pdb
+C:\Users\Lenovo\Documents\projFila3_acessos\obj\Debug\net5.0\projFila3_acessos.genruntimeconfig.cache
