@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\estudos\locacao\bin\Debug\net5.0\locacao.exe
+C:\Users\Lenovo\Documents\estudos\locacao\bin\Debug\net5.0\locacao.deps.json
+C:\Users\Lenovo\Documents\estudos\locacao\bin\Debug\net5.0\locacao.runtimeconfig.json
+C:\Users\Lenovo\Documents\estudos\locacao\bin\Debug\net5.0\locacao.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\estudos\locacao\bin\Debug\net5.0\locacao.dll
+C:\Users\Lenovo\Documents\estudos\locacao\bin\Debug\net5.0\ref\locacao.dll
+C:\Users\Lenovo\Documents\estudos\locacao\bin\Debug\net5.0\locacao.pdb
+C:\Users\Lenovo\Documents\estudos\locacao\obj\Debug\net5.0\locacao.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\estudos\locacao\obj\Debug\net5.0\locacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\estudos\locacao\obj\Debug\net5.0\locacao.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\estudos\locacao\obj\Debug\net5.0\locacao.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\estudos\locacao\obj\Debug\net5.0\locacao.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\estudos\locacao\obj\Debug\net5.0\locacao.dll
+C:\Users\Lenovo\Documents\estudos\locacao\obj\Debug\net5.0\ref\locacao.dll
+C:\Users\Lenovo\Documents\estudos\locacao\obj\Debug\net5.0\locacao.pdb
+C:\Users\Lenovo\Documents\estudos\locacao\obj\Debug\net5.0\locacao.genruntimeconfig.cache
